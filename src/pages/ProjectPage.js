@@ -295,11 +295,11 @@ const ProjectPage = () => {
               <span className="text-xl font-bold">MSPSR<span className="text-indigo-400">π</span></span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
-              <a href="/" className="text-gray-300 hover:text-indigo-400 px-3 py-2 font-medium">Home</a>
-              <a href="/project" className="text-indigo-400 px-3 py-2 font-medium">Project</a>
-              <a href="/data-release" className="text-gray-300 hover:text-indigo-400 px-3 py-2 font-medium">Data Release</a>
-              <a href="/publications" className="text-gray-300 hover:text-indigo-400 px-3 py-2 font-medium">Publications</a>
-              <a href="/team" className="text-gray-300 hover:text-indigo-400 px-3 py-2 font-medium">Team</a>
+              <Link to="/" className="text-indigo-400 px-3 py-2 font-medium">Home</Link>
+              <Link to="/project" className="text-gray-300 hover:text-indigo-400 px-3 py-2 font-medium">Project</Link>
+              <Link to="/data-release" className="text-gray-300 hover:text-indigo-400 px-3 py-2 font-medium">Data Release</Link>
+              <Link to="/publications" className="text-gray-300 hover:text-indigo-400 px-3 py-2 font-medium">Publications</Link>
+              <Link to="/team" className="text-gray-300 hover:text-indigo-400 px-3 py-2 font-medium">Team</Link>
             </div>
           </div>
         </div>
