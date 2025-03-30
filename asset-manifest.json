@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/website-test/static/css/main.dff0f737.css",
-    "main.js": "/website-test/static/js/main.88fd4673.js",
-    "static/js/453.2e2a796e.chunk.js": "/website-test/static/js/453.2e2a796e.chunk.js",
-    "index.html": "/website-test/index.html",
-    "main.dff0f737.css.map": "/website-test/static/css/main.dff0f737.css.map",
-    "main.88fd4673.js.map": "/website-test/static/js/main.88fd4673.js.map",
-    "453.2e2a796e.chunk.js.map": "/website-test/static/js/453.2e2a796e.chunk.js.map"
+    "main.css": "https://codexnyctis.github.io/website-test/static/css/main.dff0f737.css",
+    "main.js": "https://codexnyctis.github.io/website-test/static/js/main.944f929b.js",
+    "static/js/453.2e2a796e.chunk.js": "https://codexnyctis.github.io/website-test/static/js/453.2e2a796e.chunk.js",
+    "index.html": "https://codexnyctis.github.io/website-test/index.html",
+    "main.dff0f737.css.map": "https://codexnyctis.github.io/website-test/static/css/main.dff0f737.css.map",
+    "main.944f929b.js.map": "https://codexnyctis.github.io/website-test/static/js/main.944f929b.js.map",
+    "453.2e2a796e.chunk.js.map": "https://codexnyctis.github.io/website-test/static/js/453.2e2a796e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dff0f737.css",
-    "static/js/main.88fd4673.js"
+    "static/js/main.944f929b.js"
   ]
 }
