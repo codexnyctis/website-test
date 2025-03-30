@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/codexnyctis/website-test/static/css/main.dff0f737.css",
-    "main.js": "/codexnyctis/website-test/static/js/main.b0417fc1.js",
-    "static/js/453.2e2a796e.chunk.js": "/codexnyctis/website-test/static/js/453.2e2a796e.chunk.js",
-    "index.html": "/codexnyctis/website-test/index.html",
-    "main.dff0f737.css.map": "/codexnyctis/website-test/static/css/main.dff0f737.css.map",
-    "main.b0417fc1.js.map": "/codexnyctis/website-test/static/js/main.b0417fc1.js.map",
-    "453.2e2a796e.chunk.js.map": "/codexnyctis/website-test/static/js/453.2e2a796e.chunk.js.map"
+    "main.css": "/website-test/static/css/main.dff0f737.css",
+    "main.js": "/website-test/static/js/main.88fd4673.js",
+    "static/js/453.2e2a796e.chunk.js": "/website-test/static/js/453.2e2a796e.chunk.js",
+    "index.html": "/website-test/index.html",
+    "main.dff0f737.css.map": "/website-test/static/css/main.dff0f737.css.map",
+    "main.88fd4673.js.map": "/website-test/static/js/main.88fd4673.js.map",
+    "453.2e2a796e.chunk.js.map": "/website-test/static/js/453.2e2a796e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dff0f737.css",
-    "static/js/main.b0417fc1.js"
+    "static/js/main.88fd4673.js"
   ]
 }
